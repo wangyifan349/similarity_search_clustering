@@ -80,11 +80,15 @@ print("KMeans 聚类结果：", labels)
 
 ## 贡献指南 🤝
 
-欢迎贡献！请提交拉取请求到 [https://github.com/wangyifan349/similarity_search_clustering](https://github.com/wangyifan349/similarity_search_clustering) 🌟。
+欢迎贡献！请提交拉取请求到 [https://github.com/wangyifan349/similarity_search_clustering](https://github.com/wangyifan349/similarity_search_clustering) 🌟
 
 ## 作者 👨‍💻
 
 *   [wangyifan349](https://github.com/wangyifan349)
+
+如果您有任何问题，欢迎联系我
+
+wangyifangwbk@163.com
 
 ## 致谢 🙏
 

@@ -20,12 +20,6 @@ cd similarity_search_clustering
 pip install -r requirements.txt
 ```
 
-`requirements.txt` 文件内容如下 📝：
-
-```
-numpy
-```
-
 ## 使用指南 📚
 
 ### 添加向量到索引 📈
